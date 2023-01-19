@@ -10,7 +10,7 @@
 [松江府](http://www.songjiang.gov.cn/)  
 [松江信访](http://qxf.sh.gov.cn/310117/reply.setInit.do?page=1)  
 茸城民生服务热线37780000（松江的12345)。  
-![](https://github.com/simido1981/songjiang/blob/master/images/松江大学城主图.jpg)  
+![](./images/松江大学城主图.jpg)  
 图作者：mcg5@fang.com  
 [1][原贴](https://www.libaclub.com/t_113_8721825_1.htm)2014年12月29日发于篱笆网，2020年4月23日由于篱笆经营者的无厘头的言论控制，时而无故删帖，因而迁于此处，但是讨论还在原帖继续，所以此处会有对最新消息的一个维护。新来的朋友可以直接看本文，而不是翻阅378页的历史记录耗费过多时间。本文仅是参考，宜居与否是个人主观感受，置业与否需要亲历亲为。  
 [2]这里有些信息是来自于搜房网的一个[帖子](http://xiziwanbl.fang.com/bbs/1210348984~-1/31940346_31940346_1.htm)，帖子很长，对未来的期望这里会有一些讨论。手机[倒序](http://m.fang.com/bbs/?c=bbs&a=postinfo&city=sh&sign=1210348984&masterId=31940346&order=desc)在此。  
@@ -376,7 +376,7 @@ U3 就是移动; U1 街道综治中心; U4环卫设施; U9消防总队 （南面
 RS4 35班小学; RS1 54班完全中学（初中+高中），RS1东边的住宅用地规划了公厕/垃圾收集站/卫生卫生站。
 C5 400床综合医院； RC9 社区医院； RC9上面增加一小块为社区养老 （图上没有标）
 R3五角星就是之前的地王，R3是绿地蔷薇九里，北边两块黄色地块还是空地。br tag
-![](https://github.com/simido1981/songjiang/blob/master/images/龙马路规划.jpg)
+![](./images/龙马路规划.jpg)
   
   
   
