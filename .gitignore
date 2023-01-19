@@ -1,0 +1,5 @@
+*.bak
+*.bat
+# Except this file
+!.gitignore
+
